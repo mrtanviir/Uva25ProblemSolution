@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+Hello keya bokcodi hai
+*/
+
 int len(int n) {
     int count = 0;
     while (n != 1) {
