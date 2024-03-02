@@ -8,7 +8,7 @@ int main() {
        int a,b;
        scanf("%d\n%d",&a,&b);
        int sum = 0;
-       for (;a<=b;a++)
+       for (a=1;a<=b;a++)
        {
            if (a%2!=0)
            {
